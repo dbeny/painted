@@ -1,4 +1,7 @@
-package dev.benaihara.painted;
+package dev.benaihara.painted.map;
+
+import dev.benaihara.painted.block.Block;
+import dev.benaihara.painted.block.BlockType;
 
 public class Map {
     private final Block[][] blocks;

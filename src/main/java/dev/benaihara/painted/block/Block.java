@@ -1,4 +1,4 @@
-package dev.benaihara.painted;
+package dev.benaihara.painted.block;
 
 public class Block {
     private BlockType type;

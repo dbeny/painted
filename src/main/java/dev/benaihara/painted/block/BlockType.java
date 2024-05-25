@@ -1,4 +1,4 @@
-package dev.benaihara.painted;
+package dev.benaihara.painted.block;
 
 import java.awt.*;
 
